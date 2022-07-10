@@ -1,0 +1,643 @@
+09:05:31.079 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:05:42.432 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+09:05:43.093 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+09:05:55.702 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+09:05:55.774 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+09:08:43.280 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:08:43.288 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:08:55.798 [main] FATAL testCases.TC_001_AccountRegistration - Account registration failed
+09:09:23.150 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+09:09:23.174 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+09:11:43.302 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:11:43.311 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:12:00.827 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+09:12:05.018 [main] FATAL testCases.TC_002_Login - Login Failed 
+09:12:07.168 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+09:12:10.421 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:12:13.428 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+09:12:13.441 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:12:13.449 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:12:13.477 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:12:13.494 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:12:13.513 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:12:13.530 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:12:13.548 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:12:37.789 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+09:12:37.857 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+09:14:05.542 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+09:14:05.670 [main] FATAL testCases.TC_001_AccountRegistration - Account registration failed
+09:14:08.801 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+09:14:08.817 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+09:14:20.120 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+09:14:20.132 [main] FATAL testCases.TC_002_Login - Login Failed 
+09:14:22.781 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+09:14:25.981 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:14:43.317 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:14:43.324 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:17:25.992 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:17:25.992 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:17:43.333 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:20:26.025 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:20:26.041 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:21:45.826 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+09:21:47.071 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+09:21:47.071 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:21:51.205 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+09:21:52.240 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+10:10:14.527 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+10:10:14.588 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+10:10:18.897 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+10:10:19.073 [main] INFO  testCases.TC_001_AccountRegistration - clickinyg ony mny inyfo-->regisbtrabtiony linyk
+10:10:20.248 [main] FATAL testCases.TC_001_AccountRegistration - Account registration failed
+10:10:22.942 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+10:10:22.963 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+10:10:27.292 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+10:10:28.541 [main] FATAL testCases.TC_002_Login - Login Failed 
+10:10:31.123 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+10:10:33.795 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:10:38.667 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:10:39.889 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+10:10:39.897 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:10:44.034 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:10:45.117 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+10:10:45.126 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:10:49.289 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:10:50.336 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+10:10:50.350 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:10:54.522 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:10:55.583 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+10:11:28.407 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+10:11:28.446 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+10:11:29.841 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+10:11:30.060 [main] INFO  testCases.TC_001_AccountRegistration - clickinyg ony mny inyfo-->regisbtrabtiony linyk
+10:11:30.719 [main] INFO  testCases.TC_001_AccountRegistration - clicked on my account
+10:11:32.052 [main] INFO  testCases.TC_001_AccountRegistration - clicked ony Register
+10:11:32.223 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+10:11:32.391 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+10:11:32.571 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+10:11:32.731 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+10:11:32.899 [main] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+10:11:33.027 [main] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+10:11:33.139 [main] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+10:11:36.453 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+10:11:36.517 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+10:11:36.527 [main] INFO  testCases.TC_001_AccountRegistration - finished Tc_001_AccountRegistration
+10:11:39.040 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+10:11:39.056 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+10:11:40.940 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+10:11:41.333 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+10:11:42.228 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+10:11:42.489 [main] INFO  testCases.TC_002_Login - Provided Email 
+10:11:42.639 [main] INFO  testCases.TC_002_Login - Provided Password 
+10:11:43.497 [main] INFO  testCases.TC_002_Login - Clicked on Login
+10:11:43.552 [main] INFO  testCases.TC_002_Login - Login Success 
+10:11:43.552 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+10:11:45.894 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+10:11:48.137 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:11:49.228 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:11:49.784 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:11:50.583 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:11:50.808 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:11:50.957 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:11:51.538 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:11:52.595 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:11:52.608 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:11:53.203 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:11:53.318 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:11:53.987 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:11:54.238 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:11:54.364 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:11:55.003 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:11:56.058 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:11:56.059 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:11:56.063 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:11:56.601 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:11:56.734 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:11:57.428 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:11:57.623 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:11:57.775 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:11:58.381 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:11:59.422 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:11:59.422 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:11:59.437 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:11:59.948 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:12:00.092 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:12:00.781 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:12:00.981 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:12:01.118 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:12:01.726 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:12:02.727 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:12:02.727 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:29:52.543 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+12:29:52.581 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+12:29:53.922 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+12:29:54.061 [main] INFO  testCases.TC_001_AccountRegistration - clickinyg ony mny inyfo-->regisbtrabtiony linyk
+12:29:54.495 [main] INFO  testCases.TC_001_AccountRegistration - clicked on my account
+12:29:55.095 [main] INFO  testCases.TC_001_AccountRegistration - clicked ony Register
+12:29:55.250 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+12:29:55.361 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+12:29:55.497 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+12:29:55.599 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+12:29:55.695 [main] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+12:29:55.833 [main] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+12:29:55.903 [main] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+12:29:58.424 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+12:29:58.469 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+12:29:58.472 [main] INFO  testCases.TC_001_AccountRegistration - finished Tc_001_AccountRegistration
+12:30:00.985 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+12:30:00.990 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+12:30:01.728 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:30:02.378 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:30:02.856 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:30:03.052 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:30:03.180 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:30:03.720 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:30:03.777 [main] INFO  testCases.TC_002_Login - Login Success 
+12:30:03.778 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+12:30:05.245 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+12:30:06.867 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:30:07.585 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:30:08.258 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:30:08.694 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:30:08.875 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:30:08.999 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:30:09.407 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:30:10.442 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:30:10.450 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:30:10.809 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:30:10.891 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:30:11.339 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:30:11.550 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:30:11.640 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:30:11.944 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:30:12.981 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:30:12.981 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:30:12.983 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:30:13.305 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:30:13.371 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:30:13.722 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:30:13.845 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:30:13.931 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:30:14.262 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:30:15.296 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:30:15.296 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:30:15.299 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:30:15.649 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:30:15.744 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:30:16.133 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:30:16.291 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:30:16.383 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:30:16.781 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:30:17.843 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:30:17.843 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:40:36.954 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+12:40:38.502 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:40:39.344 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:40:39.892 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:40:40.316 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:40:40.550 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:40:40.668 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:40:41.062 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:40:42.096 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:40:42.133 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:40:42.457 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:40:42.534 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:40:42.933 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:40:43.077 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:40:43.162 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:40:43.485 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:40:44.523 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:40:44.523 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:40:44.526 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:40:44.866 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:40:44.939 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:40:45.282 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:40:45.410 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:40:45.499 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:40:45.827 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:40:46.864 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:40:46.864 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:40:46.867 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:40:47.264 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:40:47.388 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:40:47.874 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:40:48.003 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:40:48.101 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:40:48.478 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:40:49.511 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:40:49.511 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:46:11.527 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+12:46:13.255 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:46:14.170 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:46:14.805 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:46:15.387 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:46:15.605 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:46:15.734 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:46:16.197 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:46:17.239 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:46:17.274 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:46:17.636 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:46:17.716 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:46:18.120 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:46:18.320 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:46:18.446 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:46:18.798 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:46:19.829 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:46:19.829 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:46:19.833 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:46:20.196 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:46:20.295 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:46:20.697 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:46:20.810 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:46:20.905 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:46:21.241 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:46:22.270 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:46:22.270 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:46:22.272 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:46:22.597 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:46:22.722 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:46:23.075 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:46:23.195 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:46:23.274 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:46:23.585 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:46:24.621 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:46:24.622 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:47:42.019 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+12:47:43.596 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:47:44.438 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:47:45.154 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:47:45.621 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:47:45.850 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:47:45.972 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:47:46.381 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:47:47.426 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:47:47.451 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:47:47.778 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:47:47.847 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:47:48.307 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:47:48.547 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:47:48.622 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:47:48.978 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:47:50.029 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:47:50.029 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:47:50.032 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:47:50.354 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:47:50.420 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:47:50.771 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:47:50.884 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:47:50.982 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:47:51.335 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:47:52.367 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:47:52.367 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:47:52.371 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:47:52.759 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:47:52.833 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:47:53.183 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:47:53.302 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:47:53.385 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:47:53.716 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:47:54.741 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:47:54.741 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:50:23.888 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+12:50:25.443 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:50:26.265 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:50:26.869 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:50:27.331 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:50:27.543 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:50:27.672 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:50:28.033 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:50:29.081 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:50:29.111 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:50:29.568 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:50:29.645 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:50:30.064 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:50:30.233 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:50:30.331 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:50:30.681 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:50:31.709 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:50:31.709 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:50:31.712 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:50:32.038 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:50:32.116 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:50:32.482 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:50:32.642 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:50:32.729 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:50:33.028 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:50:34.062 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:50:34.063 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:50:34.066 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:50:34.381 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:50:34.458 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:50:34.838 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:50:34.961 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:50:35.045 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:50:35.378 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:50:36.419 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:50:36.419 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:52:31.660 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+12:52:33.433 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:52:34.352 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:52:34.879 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:52:35.593 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:52:35.787 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:52:35.928 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:52:36.508 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:52:37.561 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:52:37.647 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:52:38.058 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:52:38.145 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:52:38.584 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:52:38.789 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:52:38.882 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:52:39.250 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:52:40.309 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:52:40.309 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:52:40.313 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:52:40.735 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:52:40.817 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:52:41.223 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:52:41.355 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:52:41.461 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:52:41.837 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:52:42.871 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:52:42.871 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:52:42.874 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:52:43.217 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:52:43.291 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:52:43.605 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:52:43.742 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:52:43.820 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:52:44.130 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:52:45.150 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:52:45.151 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:58:21.815 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+12:58:23.482 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:58:24.252 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:58:24.923 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:58:25.368 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:58:25.569 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:58:25.690 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:58:26.177 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:58:26.246 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+12:58:26.728 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:58:26.753 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:58:27.106 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:58:27.190 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:58:27.571 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:58:27.726 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:58:27.811 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:58:28.156 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:58:29.198 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:58:29.198 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:58:29.201 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:58:29.522 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:58:29.588 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:58:29.948 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:58:30.080 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:58:30.181 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:58:30.523 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:58:31.557 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:58:31.557 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+12:58:31.559 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+12:58:31.866 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+12:58:31.924 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+12:58:32.251 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+12:58:32.391 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+12:58:32.484 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+12:58:32.814 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+12:58:33.840 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+12:58:33.840 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+15:19:34.024 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+15:19:34.063 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:19:42.487 [main] FATAL testCases.TC_001_AccountRegistration - Account registration failed
+15:19:44.826 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+15:19:44.835 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+15:19:49.431 [main] FATAL testCases.TC_002_Login - Login Failed 
+15:20:23.121 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+15:20:23.158 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+15:20:27.626 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+15:20:27.756 [main] INFO  testCases.TC_001_AccountRegistration - clickinyg ony mny inyfo-->regisbtrabtiony linyk
+15:20:28.446 [main] INFO  testCases.TC_001_AccountRegistration - clicked on my account
+15:20:29.360 [main] INFO  testCases.TC_001_AccountRegistration - clicked ony Register
+15:20:29.549 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+15:20:29.692 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+15:20:29.827 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+15:20:29.948 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+15:20:30.058 [main] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+15:20:30.161 [main] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+15:20:30.241 [main] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+15:20:33.185 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+15:20:33.230 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+15:20:33.233 [main] INFO  testCases.TC_001_AccountRegistration - finished Tc_001_AccountRegistration
+15:20:34.835 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+15:20:34.841 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+15:20:35.999 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+15:20:36.716 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+15:20:37.459 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+15:20:37.685 [main] INFO  testCases.TC_002_Login - Provided Email 
+15:20:37.818 [main] INFO  testCases.TC_002_Login - Provided Password 
+15:20:38.593 [main] INFO  testCases.TC_002_Login - Clicked on Login
+15:20:38.670 [main] INFO  testCases.TC_002_Login - Login Success 
+15:20:38.670 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+16:08:44.380 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+16:08:45.606 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:08:54.040 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+16:08:54.092 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:09:01.455 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+16:09:01.457 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:09:05.599 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+16:09:05.600 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:09:17.782 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+16:09:29.059 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+16:09:30.282 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:09:33.763 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:09:34.408 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:09:34.935 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:09:35.083 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:09:35.175 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:09:35.717 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:09:35.846 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+16:09:36.294 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+16:09:36.305 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:09:36.598 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:09:36.656 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:09:37.016 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:09:37.151 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:09:37.228 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:09:37.520 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:09:38.536 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+16:09:38.536 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+16:09:38.537 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:09:38.799 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:09:38.869 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:09:39.348 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:09:39.564 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:09:39.710 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:09:40.046 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:09:41.062 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+16:09:41.062 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+16:09:41.063 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+16:09:41.362 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+16:09:41.460 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+16:09:41.969 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+16:09:42.155 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+16:09:42.260 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+16:09:42.558 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+16:09:43.569 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+16:09:43.569 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+15:54:43.062 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+15:54:44.619 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:54:53.054 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+15:54:53.074 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:54:57.271 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+15:54:57.274 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:55:01.423 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+15:55:01.427 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:55:08.493 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:55:08.902 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:55:09.591 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+15:55:09.907 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+15:55:10.008 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+15:55:10.539 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+15:55:11.551 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+15:55:11.552 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+15:56:31.329 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+15:56:32.558 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:56:33.254 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:56:33.789 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:56:34.209 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+15:56:34.382 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+15:56:34.543 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+15:56:35.111 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+15:56:35.167 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+15:56:35.599 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+15:56:35.616 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:56:35.917 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:56:35.973 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:56:36.293 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+15:56:36.413 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+15:56:36.485 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+15:56:36.797 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+15:56:37.852 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+15:56:37.852 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+15:56:37.852 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:56:38.270 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:56:38.334 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:56:38.606 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+15:56:38.702 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+15:56:38.790 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+15:56:39.086 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+15:56:40.126 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+15:56:40.126 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+15:56:40.126 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:56:40.462 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:56:40.510 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:56:40.782 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+15:56:40.886 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+15:56:40.950 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+15:56:41.230 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+15:56:42.277 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+15:56:42.277 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+23:00:41.162 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+23:00:41.318 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+23:00:43.392 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+23:00:43.578 [main] INFO  testCases.TC_001_AccountRegistration - clickinyg ony mny inyfo-->regisbtrabtiony linyk
+23:00:43.926 [main] INFO  testCases.TC_001_AccountRegistration - clicked on my account
+23:00:44.875 [main] INFO  testCases.TC_001_AccountRegistration - clicked ony Register
+23:00:45.003 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+23:00:45.127 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+23:00:45.258 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+23:00:45.356 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+23:00:45.482 [main] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+23:00:45.571 [main] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+23:00:45.635 [main] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+23:00:48.222 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+23:00:48.263 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+23:00:48.266 [main] INFO  testCases.TC_001_AccountRegistration - finished Tc_001_AccountRegistration
+23:00:51.490 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+23:00:51.509 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+23:00:52.295 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+23:00:52.895 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+23:00:53.325 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+23:00:53.493 [main] INFO  testCases.TC_002_Login - Provided Email 
+23:00:53.600 [main] INFO  testCases.TC_002_Login - Provided Password 
+23:00:53.993 [main] INFO  testCases.TC_002_Login - Clicked on Login
+23:00:54.055 [main] INFO  testCases.TC_002_Login - Login Success 
+23:00:54.055 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+23:00:56.767 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+08:51:44.446 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+08:51:44.510 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+08:51:53.323 [main] FATAL testCases.TC_001_AccountRegistration - Account registration failed
+08:51:57.729 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+08:51:57.749 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+08:52:06.574 [main] FATAL testCases.TC_002_Login - Login Failed 
+08:52:10.405 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+08:52:34.333 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+08:52:34.377 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+08:52:39.460 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+08:52:39.610 [main] INFO  testCases.TC_001_AccountRegistration - clickinyg ony mny inyfo-->regisbtrabtiony linyk
+08:52:40.711 [main] FATAL testCases.TC_001_AccountRegistration - Account registration failed
+08:52:43.629 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+08:52:43.649 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+08:52:47.864 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+08:52:49.064 [main] FATAL testCases.TC_002_Login - Login Failed 
+08:52:51.864 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+08:53:30.358 [main] INFO  testCases.TC_001_AccountRegistration - Launched chrome browser
+08:53:30.414 [main] INFO  testCases.TC_001_AccountRegistration - starting TC_001_AccountRegistration
+08:53:35.567 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+08:53:35.713 [main] INFO  testCases.TC_001_AccountRegistration - clickinyg ony mny inyfo-->regisbtrabtiony linyk
+08:53:36.577 [main] INFO  testCases.TC_001_AccountRegistration - clicked on my account
+08:53:38.152 [main] INFO  testCases.TC_001_AccountRegistration - clicked ony Register
+08:53:42.428 [main] FATAL testCases.TC_001_AccountRegistration - Account registration failed
+08:53:45.769 [main] INFO  testCases.TC_002_Login - Launched chrome browser
+08:53:45.783 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+08:53:47.122 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+08:53:47.958 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+08:53:48.992 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+08:53:49.508 [main] INFO  testCases.TC_002_Login - Provided Email 
+08:53:49.695 [main] INFO  testCases.TC_002_Login - Provided Password 
+08:53:50.823 [main] INFO  testCases.TC_002_Login - Clicked on Login
+08:53:50.956 [main] INFO  testCases.TC_002_Login - Login Success 
+08:53:50.957 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+08:53:53.794 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome browser
+10:26:53.973 [main] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+10:26:56.808 [main] INFO  testCases.TC_002_Login - Launched Chrome Browser
+10:26:59.935 [main] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+10:51:42.514 [main] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+10:51:46.951 [main] INFO  testCases.TC_002_Login - Launched Chrome Browser
+10:51:50.195 [main] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+11:04:32.776 [main] INFO  testCases.TC_001_AccountRegistration - Launched Chrome Browser
+11:04:32.895 [main] INFO  testCases.TC_001_AccountRegistration -  Starting TC_001_AccountRegistration 
+11:04:37.265 [main] INFO  testCases.TC_001_AccountRegistration - Home Page Displayed 
+11:04:37.812 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on My Account 
+11:04:40.492 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Register 
+11:04:40.723 [main] INFO  testCases.TC_001_AccountRegistration - Provided First Name 
+11:04:40.963 [main] INFO  testCases.TC_001_AccountRegistration - Provided Last Name 
+11:04:41.221 [main] INFO  testCases.TC_001_AccountRegistration - Provided Email 
+11:04:41.469 [main] INFO  testCases.TC_001_AccountRegistration - Provided Telephone 
+11:04:41.698 [main] INFO  testCases.TC_001_AccountRegistration - Provided Password 
+11:04:41.992 [main] INFO  testCases.TC_001_AccountRegistration - Provided Confrmed Password 
+11:04:42.174 [main] INFO  testCases.TC_001_AccountRegistration - Set Privacy Policy 
+11:04:46.023 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on Continue 
+11:04:46.109 [main] INFO  testCases.TC_001_AccountRegistration - Account Registration Success 
+11:04:46.114 [main] INFO  testCases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+11:04:49.871 [main] INFO  testCases.TC_002_Login - Launched Chrome Browser
+11:04:49.886 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+11:04:51.585 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+11:04:52.532 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+11:04:53.643 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+11:04:53.980 [main] INFO  testCases.TC_002_Login - Provided Email 
+11:04:54.122 [main] INFO  testCases.TC_002_Login - Provided Password 
+11:04:54.847 [main] INFO  testCases.TC_002_Login - Clicked on Login
+11:04:54.920 [main] INFO  testCases.TC_002_Login - Login Success 
+11:04:54.920 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+11:04:58.499 [main] INFO  testCases.TC_003_LoginDDT - Launched Chrome Browser
+11:05:01.210 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+11:05:03.137 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+11:05:03.688 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+11:05:04.866 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+11:05:05.148 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+11:05:05.329 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+11:05:06.670 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+11:05:06.767 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+11:05:07.708 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
